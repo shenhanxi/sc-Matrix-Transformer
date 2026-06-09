@@ -1,0 +1,8 @@
+cell,PC1,PC2,PC3,PC4,PC5,PC6
+out_dir/segmentation_F1_cell_1.csv,12.53,-4.21,8.11,-3.44,1.12,0.55
+out_dir/segmentation_F1_cell_2.csv,-5.12,2.33,-1.56,2.1,-0.22,1.33
+out_dir/segmentation_F1_cell_3.csv,1.14,0.45,2.25,-0.98,3.01,-1.1
+out_dir/segmentation_F2_cell_1.csv,-3.2,-2.11,0.14,1.55,-1.55,-0.21
+out_dir/segmentation_F2_cell_2.csv,0.88,1.89,-2.8,0.33,0.74,2.45
+out_dir/segmentation_F3_cell_15.csv,1.55,-0.77,1.44,-1.88,2.22,0.99
+broken_data_row_without_F_and_cell,-0.5,1.1,0,-1,0.5,0.5
